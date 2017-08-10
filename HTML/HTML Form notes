@@ -1,0 +1,18 @@
+
+Competencies
+Forms take input from user and sends it to another page
+Everything inside form tags directs information for your form
+Inside form tags, input denotes a field. Input tags are self-closing, like this <input /> you don’t need to close it with </input>
+Input tags have types which denote what kind of input is required in the field, such as text, buttons, email, etc.
+Form actions tell the form what to do/where to go after submission
+Input names are used to identify elements in the next step(page)
+There are different HTTP methods your forms can take, GET POST DELETE are the most common
+GET fetches data, POST updates/posts new data, and DELETE deletes data
+
+Applications
+Build a login form
+
+
+HTML Form documentation: 
+
+https://www.w3schools.com/html/html_forms.asp
