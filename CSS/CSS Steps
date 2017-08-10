@@ -1,0 +1,19 @@
+Let’s create our first CSS stylesheet
+
+Add some new info to your zoo, maybe a description for each animal
+In the same directory as your zoo, create a file called “style.css”
+
+Link that file to your zoo with a <link> tag. 
+
+Create a rule to make all h1 tags green in your stylesheet with 
+h1 { 
+color: green;
+}
+
+Make the background of your body red
+
+Make all text inside <p> tags Helvetica and italicized with a font size of 24
+
+Add a new div and change the background image to a picture of a crocodile using in-line styling
+
+Add a border around each <li> tag
