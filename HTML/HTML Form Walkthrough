@@ -1,0 +1,29 @@
+Let’s create a HTML form:
+
+First, create a new repo (folder) in your HTML projects directory (folder), make a new page, “index.html” and fill out the skeleton (<html>, <head>, <title>, <body>, etc tags)
+Create another page in that some folder called “page2.html”, add a skeleton, and maybe some text that says “success!”
+
+Title your page “Creating HTML Forms”
+Make your page display “Creating HTML Forms” as header text
+
+In <p> tags, prompt user to log in.
+
+Make opening and closing <form> tags
+Add an <input> tag for username inside your form, make it a text field. 
+
+Create same thing for password, but make the input field a password field
+
+Create a submit button as an input 
+
+Direct the form to page2 through the form action 
+
+Name your username input “username”
+Name your password input “password”
+
+Give your form a POST method
+
+Try it out!
+
+
+
+
