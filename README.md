@@ -2,6 +2,7 @@
 
 Today's topics:
 More HTML
+
 CSS
 
 Stretch:
